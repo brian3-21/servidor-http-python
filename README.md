@@ -1,5 +1,10 @@
-# HTTP Server from Scratch
+# HTTP Server from scratch
 
-build a real HTTP server in Python using **only the standard library**, no frameworks.
+Build an HTTP server in Python from scratch using only the standard library.
 
-Open OpenCode in this folder and run `/leccion` to start.
+## What I'll do
+- Learn how HTTP works
+- Handle requests and responses
+- Serve static files
+- Implement basic routing
+- Handle headers and status codes
